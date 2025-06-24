@@ -45,7 +45,7 @@ When I’m not coding, I enjoy:
 
 ### 💡 Fun Fact
 
-I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **Practitioner** certifications — and I’m proud to be a **named contributor to the PRINCE2 Agile Second Edition**, where you’ll find my name in the acknowledgements!
+I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **Practitioner** certifications, and I’m proud to be a **named contributor to the PRINCE2 Agile Second Edition**, where you’ll find my name in the acknowledgements!
 
 ---
 
@@ -136,3 +136,6 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
   </a>
 </p>
 
+---
+
+Thanks for stopping by,feel free to check out my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/mustafamoallim)! 🚀
