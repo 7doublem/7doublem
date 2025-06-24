@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=7doublem&label=Profile%20views&color=0e75b6&style=flat)
+
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mustafa
 
 👨‍💻 Software Engineer | 🔄 From Consulting to Code | 🚀 Fast learner, 🧼 Clean coder, 🎯 Impact-driven
@@ -66,9 +68,11 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 </p>
 
-### ⚙️ Scripting & Tools
+### ⚙️ Scripting & DevOps
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Firebase%20Emulators-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="Firebase Emulators" />
 </p>
 
 ### 🧑‍💻 Code Editors
@@ -84,6 +88,13 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
+  <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30" alt="NativeWind" />
+</p>
+
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white" height="30" alt="Expo Go" />
 </p>
 
 ### 🛠 Back End
@@ -91,11 +102,14 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" />
+  <img src="https://img.shields.io/badge/Firebase%20Functions-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="Firebase Functions" />
 </p>
 
-### 🗄 Databases
+### 🗄 Databases & Auth
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="Firestore" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="Firebase Auth" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
 </p>
@@ -107,11 +121,24 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
 
 ---
 
+## 🚧 Currently Working On
+
+- 📰 [**Truthy News**](https://github.com/7doublem/fe-truthy-news)  
+  Polishing the front end of my full-stack news application using **React**, **Tailwind CSS**, and **JavaScript**, with a focus on improving UI/UX based on user feedback.  
+  **Tech:** JavaScript, React, Tailwind CSS, Node.js, Express, PostgreSQL
+
+- 🏠 [**Roomies App**](https://github.com/7doublem/Roomies-App)  
+  Enhancing the mobile experience using **Expo Go**, **React Native**, and **NativeWind**, while continuing to implement backlog features such as group editing (adding/removing members), chore management, and user experience improvements.  
+  On the backend, I’m adding new **Firebase Function routes** to support frontend requirements.  
+  **Tech:** TypeScript, React Native, Expo Go, NativeWind, Firebase (Auth, Firestore, Cloud Functions, Emulators)
+
+---
+
 ## 📊 GitHub Stats
 
-![7doublem GitHub Stats](https://github-readme-stats.vercel.app/api?username=7doublem&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0891b2)
-
 ![Snake animation](https://github.com/7doublem/7doublem/blob/output/github-contribution-grid-snake.svg)
+
+![7doublem GitHub Stats](https://github-readme-stats.vercel.app/api?username=7doublem&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0891b2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7doublem&langs_count=10&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0891b2&locale=en&custom_title=Top%20Languages)
 
