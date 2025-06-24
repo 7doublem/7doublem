@@ -94,6 +94,7 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
 ### 📱 Mobile Development
 <p align="left">
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="30" alt="Expo" />
   <img src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white" height="30" alt="Expo Go" />
 </p>
 
