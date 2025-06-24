@@ -138,4 +138,4 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
 
 ---
 
-Thanks for stopping by,feel free to check out my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/mustafamoallim)! 🚀
+Thanks for stopping by, feel free to check out my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/mustafamoallim)! 🚀
