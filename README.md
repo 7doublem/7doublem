@@ -72,6 +72,7 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="30" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Firebase%20Hosting-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="Firebase Hosting" />
   <img src="https://img.shields.io/badge/Firebase%20Emulators-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="Firebase Emulators" />
 </p>
 
