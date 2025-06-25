@@ -159,7 +159,7 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
 
 <p align="center">
   <a href="https://github.com/7doublem/Roomies-App">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7doublem&repo=Roomies-App&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0891b2" />
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7doublem&repo=Roomies-App&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0891b2&cache_bust=1" />
   </a>
 </p>
 
