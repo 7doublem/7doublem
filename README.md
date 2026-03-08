@@ -51,6 +51,15 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
 
 ---
 
+## 📫 Contact Me
+
+- 🌍 Based in London, United Kingdom  
+- ✉️ Email: [mustafamoallim1@gmail.com](mailto:mustafamoallim1@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mustafamoallim)  
+- 🐙 [GitHub](https://github.com/7doublem)
+
+---
+
 ## 🛠️ Skills
 
 ### 💻 Core Languages
@@ -153,3 +162,7 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=7doublem&repo=Roomies-App&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0891b2&cache_bust=1" />
   </a>
 </p>
+
+---
+
+Thanks for stopping by, feel free to check out my projects or connect with me on [LinkedIn](https://www.linkedin.com/in/mustafamoallim)! 🚀
