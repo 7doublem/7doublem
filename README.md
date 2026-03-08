@@ -51,15 +51,6 @@ I'm a **PRINCE2® Agile Expert (Version 2)**, holding both **Foundation** and **
 
 ---
 
-## 📫 Contact Me
-
-- 🌍 Based in London, United Kingdom  
-- ✉️ Email: [mustafamoallim1@gmail.com](mailto:mustafamoallim1@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mustafamoallim)  
-- 🐙 [GitHub](https://github.com/7doublem)
-
----
-
 ## 🛠️ Skills
 
 ### 💻 Core Languages
